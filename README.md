@@ -10,3 +10,6 @@
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
+
+### 字体
+- [Calligraphy](https://github.com/chrisjenx/Calligraphy) -Custom fonts in Android the easy way
