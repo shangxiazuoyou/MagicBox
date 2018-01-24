@@ -16,3 +16,6 @@
 
 ### 布局
 - [vlayout](https://github.com/alibaba/vlayout)
+
+### 加载布局
+- [LoadingView](https://github.com/xiaokun19931126/LoadingView) -loadview and tipview.加载框和提示框
