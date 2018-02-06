@@ -23,3 +23,6 @@
 ### 按钮
 - [Fancybuttons](https://github.com/medyo/Fancybuttons) -Icons, Borders, Radius ... for Android buttons
 - [CountDownButton](https://github.com/WhiteDG/CountDownButton) -Countdown button can use just like a normal button
+
+### 阴影
+- [shadow](https://github.com/loopeer/shadow) -Android custom shadow view, can replace your CardView
