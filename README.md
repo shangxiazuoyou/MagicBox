@@ -35,3 +35,6 @@
 
 ### 侧边栏
 - [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)
+
+### 选择联系人
+- [Android-ContactPicker](https://github.com/1gravity/Android-ContactPicker) -A beautifully designed component to pick one or several contacts (including groups) from the Android contacts list
