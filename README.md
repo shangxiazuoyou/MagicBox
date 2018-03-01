@@ -38,3 +38,9 @@
 
 ### 选择联系人
 - [Android-ContactPicker](https://github.com/1gravity/Android-ContactPicker) -A beautifully designed component to pick one or several contacts (including groups) from the Android contacts list
+
+### 隐藏
+- [ByeBurger](https://github.com/githubwing/ByeBurger) -An Android behavior library let your titlebar or bottom navigation hiding on scroll ,极其简便的快速实现滑动隐藏标题栏和导航栏
+
+### Socket
+- [OkSocket](https://github.com/xuuhaoo/OkSocket) -一个简单的Android的Socket框架
