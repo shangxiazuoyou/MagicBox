@@ -44,3 +44,6 @@
 
 ### Socket
 - [OkSocket](https://github.com/xuuhaoo/OkSocket) -一个简单的Android的Socket框架
+
+### 选择器
+- [CityPicker](https://github.com/zaaach/CityPicker) -城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
