@@ -44,6 +44,13 @@
 
 ### Socket
 - [OkSocket](https://github.com/xuuhaoo/OkSocket) -一个简单的Android的Socket框架
+- [bizsocket](https://github.com/typ0520/bizsocket) -异步socket，对一些业务场景做了支持
 
 ### 选择器
 - [CityPicker](https://github.com/zaaach/CityPicker) -城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
+
+### SlideLayout
+- [SlideMenuLayout](https://github.com/JustKiddingBaby/SlideMenuLayout)
+
+### 输入框
+- [material-code-input](https://github.com/glomadrian/material-code-input)
