@@ -5,6 +5,8 @@
 ### 存储
 - [Paper](https://github.com/pilgr/Paper) -Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
 
+- [hawk](https://github.com/orhanobut/hawk) -✔️ Secure, simple key-value storage for Android
+
 ### 支付键盘
 - [WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) -高仿微信数字键盘、支付键盘（密码键盘）,同样可以拿来改成支付宝的支付键盘
 
@@ -54,3 +56,15 @@
 
 ### 输入框
 - [material-code-input](https://github.com/glomadrian/material-code-input)
+
+### 虚线
+- [DashedLine](https://github.com/SenhLinsh/DashedLine) -自定义虚线控件, 包括直线虚线和圆形虚线
+
+### 信封分割条
+- [Maillineview](https://github.com/xiaohaibin/Maillineview)
+
+### 进度条
+- [MaterialProgressBar](https://github.com/chaossss/MaterialProgressBar)
+
+### sku
+- [android-sku](https://github.com/wuhenzhizao/android-sku)
