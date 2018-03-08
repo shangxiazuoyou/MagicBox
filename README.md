@@ -68,3 +68,6 @@
 
 ### sku
 - [android-sku](https://github.com/wuhenzhizao/android-sku)
+
+### 分组列表
+- [GroupRecyclerViewAdapter](https://github.com/sfsheng0322/GroupRecyclerViewAdapter) -可增删改查、可展开收起的分组列表
