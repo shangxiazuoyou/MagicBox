@@ -71,3 +71,6 @@
 
 ### 分组列表
 - [GroupRecyclerViewAdapter](https://github.com/sfsheng0322/GroupRecyclerViewAdapter) -可增删改查、可展开收起的分组列表
+
+### State
+- [android-state](https://github.com/evernote/android-state) -A utility library for Android to save objects in a Bundle without any boilerplate.
