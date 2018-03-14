@@ -76,3 +76,6 @@
 
 ### State
 - [android-state](https://github.com/evernote/android-state) -A utility library for Android to save objects in a Bundle without any boilerplate.
+
+### 预加载
+- [PreLoader](https://github.com/luckybilly/PreLoader) -Pre-load data for android Activity/Fragment/View (android页面启动速度优化利器：在页面打开之前就预加载数据)
