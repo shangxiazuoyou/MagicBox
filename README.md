@@ -79,3 +79,6 @@
 
 ### 预加载
 - [PreLoader](https://github.com/luckybilly/PreLoader) -Pre-load data for android Activity/Fragment/View (android页面启动速度优化利器：在页面打开之前就预加载数据)
+
+### 保持状态的ViewPager
+- [ViewStatePagerAdapter](https://github.com/NightlyNexus/ViewStatePagerAdapter) -Saves and restores View states in ViewPagers
