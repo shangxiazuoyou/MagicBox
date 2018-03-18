@@ -59,6 +59,9 @@
 ### 输入框
 - [material-code-input](https://github.com/glomadrian/material-code-input)
 
+### 隐藏软键盘
+- [HideKeyboard](https://github.com/yingLanNull/HideKeyboard)
+
 ### 虚线
 - [DashedLine](https://github.com/SenhLinsh/DashedLine) -自定义虚线控件, 包括直线虚线和圆形虚线
 
