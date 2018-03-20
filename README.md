@@ -85,3 +85,6 @@
 
 ### 保持状态的ViewPager
 - [ViewStatePagerAdapter](https://github.com/NightlyNexus/ViewStatePagerAdapter) -Saves and restores View states in ViewPagers
+
+### OCR
+- [cardocr](https://github.com/Eric0liang/cardocr) -该开源库集成了腾讯优图OCR服务
