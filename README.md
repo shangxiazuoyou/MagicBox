@@ -88,3 +88,9 @@
 
 ### OCR
 - [cardocr](https://github.com/Eric0liang/cardocr) -该开源库集成了腾讯优图OCR服务
+
+### ChipView
+- [materialChipView](https://github.com/robertlevonyan/materialChipView)
+
+### ExpansionPanel
+- [materialExpansionPanel](https://github.com/robertlevonyan/materialExpansionPanel)
