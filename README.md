@@ -61,6 +61,7 @@
 
 ### 隐藏软键盘
 - [HideKeyboard](https://github.com/yingLanNull/HideKeyboard)
+- [KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent)
 
 ### 虚线
 - [DashedLine](https://github.com/SenhLinsh/DashedLine) -自定义虚线控件, 包括直线虚线和圆形虚线
@@ -94,3 +95,6 @@
 
 ### ExpansionPanel
 - [materialExpansionPanel](https://github.com/robertlevonyan/materialExpansionPanel)
+
+### 防抖
+- [DataBinding-AspectJ](https://github.com/ditclear/DataBinding-AspectJ) -DataBinding结合AspectJ防止多次点击~给老虎插上翅膀
