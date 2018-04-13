@@ -101,3 +101,6 @@
 
 ### 商城首页
 - [BaseVLayoutAdapterHelper](https://github.com/lvtanxi/BaseVLayoutAdapterHelper) -基于阿里V-Layout的一个Android 简单的封装的通用Adapter
+
+### 状态页
+- [Skeleton](https://github.com/ethanhua/Skeleton) -A library provides an easy way to show skeleton loading view like Facebook and Alipay
