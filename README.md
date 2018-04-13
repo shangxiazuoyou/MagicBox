@@ -98,3 +98,6 @@
 
 ### 防抖
 - [DataBinding-AspectJ](https://github.com/ditclear/DataBinding-AspectJ) -DataBinding结合AspectJ防止多次点击~给老虎插上翅膀
+
+### 商城首页
+- [BaseVLayoutAdapterHelper](https://github.com/lvtanxi/BaseVLayoutAdapterHelper) -基于阿里V-Layout的一个Android 简单的封装的通用Adapter
