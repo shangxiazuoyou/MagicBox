@@ -20,6 +20,7 @@
 
 ### 布局
 - [vlayout](https://github.com/alibaba/vlayout)
+- [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) -👉 自定义LayoutManager，炫酷列表
 
 ### 加载布局
 - [LoadingView](https://github.com/xiaokun19931126/LoadingView) -loadview and tipview.加载框和提示框
