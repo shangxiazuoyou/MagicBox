@@ -118,3 +118,13 @@
 ### TagLayout
 - [TagLayout](https://github.com/Rukey7/TagLayout) -TagView Sample
 - [TagView](https://github.com/Cutta/TagView)
+
+### Dialog
+- [CFAlertDialog](https://github.com/Codigami/CFAlertDialog)
+- [FullScreenDialog](https://github.com/franmontiel/FullScreenDialog)
+
+### Progress
+- [ProgressWindow_Android](https://github.com/mmoamenn/ProgressWindow_Android)
+
+### TextView
+- [SpannableTextView](https://github.com/milaptank/SpannableTextView)
