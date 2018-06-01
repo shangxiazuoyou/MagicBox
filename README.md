@@ -11,6 +11,8 @@
 
 ### 支付键盘
 - [WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) -高仿微信数字键盘、支付键盘（密码键盘）,同样可以拿来改成支付宝的支付键盘
+- [Android_Fizzer_PasswordDialogView](https://github.com/Fizzzzer/Android_Fizzer_PasswordDialogView)
+- [SecurityKeyBroad](https://github.com/chengcnaplex/SecurityKeyBroad)
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
