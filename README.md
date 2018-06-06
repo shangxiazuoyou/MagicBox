@@ -130,3 +130,6 @@
 
 ### TextView
 - [SpannableTextView](https://github.com/milaptank/SpannableTextView)
+
+### selector
+- [SelectorInjection](https://github.com/tianzhijiexian/SelectorInjection) -一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
