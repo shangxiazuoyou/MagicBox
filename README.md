@@ -133,3 +133,6 @@
 
 ### selector
 - [SelectorInjection](https://github.com/tianzhijiexian/SelectorInjection) -一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
+
+### AOP
+- [XAOP](https://github.com/xuexiangjys/XAOP) -一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用，比如过滤快速点击等
