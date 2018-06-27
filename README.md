@@ -9,10 +9,11 @@
 
 - [SharedChamber](https://github.com/afiqiqmal/SharedChamber) -Android Secure SharedPreferences Using Facebook Conceal Encryption
 
-### 支付键盘
+### 键盘
 - [WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) -高仿微信数字键盘、支付键盘（密码键盘）,同样可以拿来改成支付宝的支付键盘
 - [Android_Fizzer_PasswordDialogView](https://github.com/Fizzzzer/Android_Fizzer_PasswordDialogView)
 - [SecurityKeyBroad](https://github.com/chengcnaplex/SecurityKeyBroad)
+- [LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) -🔥🔥字母，符号，数字&自定义安全键盘🔥🔥
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
@@ -30,6 +31,7 @@
 ### 按钮
 - [Fancybuttons](https://github.com/medyo/Fancybuttons) -Icons, Borders, Radius ... for Android buttons
 - [CountDownButton](https://github.com/WhiteDG/CountDownButton) -Countdown button can use just like a normal button
+- [StateButton](https://github.com/niniloveyou/StateButton) -一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
 
 ### 阴影
 - [shadow](https://github.com/loopeer/shadow) -Android custom shadow view, can replace your CardView
