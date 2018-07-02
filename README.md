@@ -32,6 +32,7 @@
 - [Fancybuttons](https://github.com/medyo/Fancybuttons) -Icons, Borders, Radius ... for Android buttons
 - [CountDownButton](https://github.com/WhiteDG/CountDownButton) -Countdown button can use just like a normal button
 - [StateButton](https://github.com/niniloveyou/StateButton) -一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
+- [CommonShapeButton](https://github.com/michaelxs/CommonShapeButton) -为了移除项目中所有的 shape 文件，提供通用 shape 样式按钮
 
 ### 阴影
 - [shadow](https://github.com/loopeer/shadow) -Android custom shadow view, can replace your CardView
