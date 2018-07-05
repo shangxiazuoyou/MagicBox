@@ -142,3 +142,6 @@
 
 ### 转场动画库
 - [TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) -This is a simple util to create Activity transition animation
+
+### 国际化
+- [AndroidMultiLanguage](https://github.com/finddreams/AndroidMultiLanguage) -完美实现Android的多语言切换，国际化
