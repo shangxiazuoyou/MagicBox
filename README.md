@@ -127,6 +127,7 @@
 ### Dialog
 - [CFAlertDialog](https://github.com/Codigami/CFAlertDialog)
 - [FullScreenDialog](https://github.com/franmontiel/FullScreenDialog)
+- [LDialog](https://github.com/limuyang2/LDialog) -👏基于DialogFragment封装的库，丰富的属性，帮助你化繁为简
 
 ### Progress
 - [ProgressWindow_Android](https://github.com/mmoamenn/ProgressWindow_Android)
