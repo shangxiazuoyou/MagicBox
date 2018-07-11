@@ -146,6 +146,7 @@
 
 ### 国际化
 - [AndroidMultiLanguage](https://github.com/finddreams/AndroidMultiLanguage) -完美实现Android的多语言切换，国际化
+- [LocaleChanger](https://github.com/franmontiel/LocaleChanger) -An Android library to programmatically set the Locale of an app and persist the configuration.
 
 ### 验证码输入框
 - [VercodeEditText](https://github.com/JustKiddingBaby/VercodeEditText) -🔥An Android vercode EditText.（一个安卓验证码输入控件.仿[探探验证码输入控件]）
