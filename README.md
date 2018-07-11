@@ -149,3 +149,6 @@
 
 ### 验证码输入框
 - [VercodeEditText](https://github.com/JustKiddingBaby/VercodeEditText) -🔥An Android vercode EditText.（一个安卓验证码输入控件.仿[探探验证码输入控件]）
+
+### Toast
+- [Flashbar](https://github.com/aritraroy/Flashbar) -⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
