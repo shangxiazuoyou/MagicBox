@@ -153,3 +153,6 @@
 
 ### Toast
 - [Flashbar](https://github.com/aritraroy/Flashbar) -⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
+
+### Switch
+- [SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI.
