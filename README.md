@@ -156,3 +156,6 @@
 
 ### Switch
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI.
+
+### TextView
+- [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
