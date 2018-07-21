@@ -161,3 +161,7 @@
 
 ### TextView
 - [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
+
+### 状态页
+- [loadinglayout](https://github.com/czy1121/loadinglayout)
+- [LoadingAndRetryManager)](https://github.com/hongyangAndroid/LoadingAndRetryManager)
