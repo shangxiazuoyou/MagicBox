@@ -174,3 +174,6 @@
 
 ### Dialog
 - [YCDialog](https://github.com/yangchong211/YCDialog)
+
+### 防抖
+- [sug-debounce](https://github.com/SmartDengg/sug-debounce)
