@@ -136,6 +136,8 @@
 
 ### TextView
 - [SpannableTextView](https://github.com/milaptank/SpannableTextView)
+- [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
+- [SuperTextView](https://github.com/lygttpod/SuperTextView)
 
 ### selector
 - [SelectorInjection](https://github.com/tianzhijiexian/SelectorInjection) -一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
@@ -158,9 +160,6 @@
 
 ### Switch
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI.
-
-### TextView
-- [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
 
 ### 状态页
 - [loadinglayout](https://github.com/czy1121/loadinglayout)
