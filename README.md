@@ -14,6 +14,7 @@
 - [Android_Fizzer_PasswordDialogView](https://github.com/Fizzzzer/Android_Fizzer_PasswordDialogView)
 - [SecurityKeyBroad](https://github.com/chengcnaplex/SecurityKeyBroad)
 - [LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) -🔥🔥字母，符号，数字&自定义安全键盘🔥🔥
+- [GridPasswordView](https://github.com/Jungerr/GridPasswordView) -An android password view that looks like the pay password view in wechat app and alipay app.
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
