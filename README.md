@@ -131,6 +131,7 @@
 - [LDialog](https://github.com/limuyang2/LDialog) -👏基于DialogFragment封装的库，丰富的属性，帮助你化繁为简
 - [LoadingDialog](https://github.com/LinweiJ/LoadingDialog) -网络请求框
 - [MNProgressHUD](https://github.com/maning0303/MNProgressHUD)
+- [Dialog](https://github.com/kongzue/Dialog)
 
 ### Progress
 - [ProgressWindow_Android](https://github.com/mmoamenn/ProgressWindow_Android)
