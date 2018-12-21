@@ -1,12 +1,18 @@
 # MagicBox
 收集比较好的、可以用于项目中的三方库
 
+### 框架
+- [Fragmentation](https://github.com/YoKeyword/Fragmentation)
+- [FragmentRigger](https://github.com/JingYeoh/FragmentRigger)
+- [Cicerone](https://github.com/terrakok/Cicerone)
+- [TabNavigation](https://github.com/wordplat/TabNavigation)
+
+### 日志
+- [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)
 
 ### 存储
 - [Paper](https://github.com/pilgr/Paper) -Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
-
 - [hawk](https://github.com/orhanobut/hawk) -✔️ Secure, simple key-value storage for Android
-
 - [SharedChamber](https://github.com/afiqiqmal/SharedChamber) -Android Secure SharedPreferences Using Facebook Conceal Encryption
 
 ### 键盘
@@ -15,6 +21,7 @@
 - [SecurityKeyBroad](https://github.com/chengcnaplex/SecurityKeyBroad)
 - [LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) -🔥🔥字母，符号，数字&自定义安全键盘🔥🔥
 - [GridPasswordView](https://github.com/Jungerr/GridPasswordView) -An android password view that looks like the pay password view in wechat app and alipay app.
+- [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
@@ -28,6 +35,9 @@
 
 ### 加载布局
 - [LoadingView](https://github.com/xiaokun19931126/LoadingView) -loadview and tipview.加载框和提示框
+- [LoadingDialog](https://github.com/ForgetAll/LoadingDialog)
+- [AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)
+- [LoadingDialog](https://github.com/LinweiJ/LoadingDialog)
 
 ### 按钮
 - [Fancybuttons](https://github.com/medyo/Fancybuttons) -Icons, Borders, Radius ... for Android buttons
@@ -156,9 +166,13 @@
 
 ### 验证码输入框
 - [VercodeEditText](https://github.com/JustKiddingBaby/VercodeEditText) -🔥An Android vercode EditText.（一个安卓验证码输入控件.仿[探探验证码输入控件]）
+- [material-code-input](https://github.com/bajian/material-code-input)
+- [VerificationCodeInput](https://github.com/liuguangli/VerificationCodeInput)
 
 ### Toast
 - [Flashbar](https://github.com/aritraroy/Flashbar) -⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
+- [Alerter](https://github.com/Tapadoo/Alerter)
+- [TastyToast](https://github.com/yadav-rahul/TastyToast)
 
 ### Switch
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI.
@@ -172,6 +186,7 @@
 
 ### 倒计时
 - [CountdownView](https://github.com/iwgang/CountdownView)
+- [AdCountView](https://github.com/flyou/AdCountView)
 
 ### Dialog
 - [YCDialog](https://github.com/yangchong211/YCDialog)
@@ -192,3 +207,50 @@
 
 ### JakeWharton
 - [ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix)
+
+### Awesome Indicator
+- [InkPageIndicator](https://github.com/DavidPacioianu/InkPageIndicator)
+
+### 下拉视图
+- [DropDownView](https://github.com/AnthonyFermin/DropDownView)
+
+### 任务
+- [TaskScheduler](https://github.com/SilenceDut/TaskScheduler)
+
+### 渐变色
+- [co.revely.gradient](https://github.com/revely-inc/co.revely.gradient)
+
+### 日历
+- [CosmoCalendar](https://github.com/ApplikeySolutions/CosmoCalendar)
+
+### 有意思的效果
+- [android-outside-activity](https://github.com/S64/android-outside-activity)
+- [android-animated-toolbar](https://github.com/S64/android-animated-toolbar)
+- [android-RibbonViews](https://github.com/battleent/android-RibbonViews)
+- [TipsNotify](https://github.com/iflytek-duan/TipsNotify)
+- [aesthetic](https://github.com/afollestad/aesthetic)
+- [android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer) -声纹
+- [TicketView](https://github.com/vipulasri/TicketView)
+- [linear-time-picker](https://github.com/code-mc/linear-time-picker)
+- [MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) -Android 炫酷的多重水波纹 MultiWaveHeader Wave
+- [EasyBehavior](https://github.com/JmStefanAndroid/EasyBehavior)
+- [ExpansionPanel](https://github.com/florent37/ExpansionPanel)
+- [ImageViewer](https://github.com/albert-lii/ImageViewer)
+- [AutoGridView](https://github.com/albert-lii/AutoGridView)
+
+### 有趣项目
+- [PVCloudGroupn](https://github.com/JmStefanAndroid/PVCloudGroupn)
+- [GitClub](https://github.com/TellH/GitClub)
+
+### BottomLayout
+- [BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)
+
+### StepView
+- [StepView](https://github.com/shuhart/StepView)
+
+### 时间选择器
+- [SublimePicker](https://github.com/vikramkakkar/SublimePicker)
+- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)
+
+### 聊天
+- [CoolChat](https://github.com/CooLoongWu/CoolChat)
