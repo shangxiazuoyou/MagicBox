@@ -186,3 +186,6 @@
 
 ### 图片
 - [ImageLoader](https://github.com/Shimingli/ImageLoader)
+
+### 支付
+- [AlipayZeroSdk](https://github.com/fython/AlipayZeroSdk)
