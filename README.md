@@ -25,6 +25,7 @@
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
+- [KLineChart](https://github.com/fujianlian/KLineChart)
 
 ### 字体
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) -Custom fonts in Android the easy way
@@ -56,6 +57,7 @@
 
 ### 侧边栏
 - [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)
+- [Custom-Navigation-Drawer](https://github.com/shrikanth7698/Custom-Navigation-Drawer)
 
 ### 选择联系人
 - [Android-ContactPicker](https://github.com/1gravity/Android-ContactPicker) -A beautifully designed component to pick one or several contacts (including groups) from the Android contacts list
@@ -142,6 +144,8 @@
 - [LoadingDialog](https://github.com/LinweiJ/LoadingDialog) -网络请求框
 - [MNProgressHUD](https://github.com/maning0303/MNProgressHUD)
 - [Dialog](https://github.com/kongzue/Dialog)
+- [YCDialog](https://github.com/yangchong211/YCDialog)
+- [TDialog](https://github.com/Timmy-zzh/TDialog)
 
 ### Progress
 - [ProgressWindow_Android](https://github.com/mmoamenn/ProgressWindow_Android)
@@ -188,9 +192,6 @@
 - [CountdownView](https://github.com/iwgang/CountdownView)
 - [AdCountView](https://github.com/flyou/AdCountView)
 
-### Dialog
-- [YCDialog](https://github.com/yangchong211/YCDialog)
-
 ### 防抖
 - [sug-debounce](https://github.com/SmartDengg/sug-debounce)
 
@@ -201,6 +202,7 @@
 
 ### 图片
 - [ImageLoader](https://github.com/Shimingli/ImageLoader)
+- [ImageWorker](https://github.com/1AboveAll/ImageWorker)
 
 ### 支付
 - [AlipayZeroSdk](https://github.com/fython/AlipayZeroSdk)
