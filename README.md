@@ -243,6 +243,7 @@
 ### 有趣项目
 - [PVCloudGroupn](https://github.com/JmStefanAndroid/PVCloudGroupn)
 - [GitClub](https://github.com/TellH/GitClub)
+- [quietweather](https://github.com/myvin/quietweather)
 
 ### BottomLayout
 - [BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)
@@ -256,3 +257,9 @@
 
 ### 聊天
 - [CoolChat](https://github.com/CooLoongWu/CoolChat)
+
+### 筛选器
+- [PopsTabView](https://github.com/ccj659/PopsTabView)
+
+### CardView
+- [LCardView](https://github.com/linwg1988/LCardView)
