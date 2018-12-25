@@ -263,3 +263,7 @@
 
 ### CardView
 - [LCardView](https://github.com/linwg1988/LCardView)
+
+### 自定义状态页
+- [StatusLayoutManager](https://github.com/Bakumon/StatusLayoutManager)
+- [StatusView](https://github.com/SheHuan/StatusView)
