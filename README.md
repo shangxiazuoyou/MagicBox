@@ -22,6 +22,7 @@
 - [LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) -🔥🔥字母，符号，数字&自定义安全键盘🔥🔥
 - [GridPasswordView](https://github.com/Jungerr/GridPasswordView) -An android password view that looks like the pay password view in wechat app and alipay app.
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
+- [SoftKeyboardTopTool](https://github.com/swustmuzi/SoftKeyboardTopTool) -软键盘顶部加入自定义工具条
 
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
@@ -68,6 +69,9 @@
 ### Socket
 - [OkSocket](https://github.com/xuuhaoo/OkSocket) -一个简单的Android的Socket框架
 - [bizsocket](https://github.com/typ0520/bizsocket) -异步socket，对一些业务场景做了支持
+- [nv-websocket-client](https://github.com/TakahikoKawasaki/nv-websocket-client)
+- [JavaWebsocketClient](https://github.com/jacek-marchwicki/JavaWebsocketClient)
+- [RxWebSocket](https://github.com/dhhAndroid/RxWebSocket)
 
 ### 选择器
 - [CityPicker](https://github.com/zaaach/CityPicker) -城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
@@ -117,6 +121,8 @@
 
 ### 防抖
 - [DataBinding-AspectJ](https://github.com/ditclear/DataBinding-AspectJ) -DataBinding结合AspectJ防止多次点击~给老虎插上翅膀
+- [asm-clickdebounce](https://github.com/SmartDengg/asm-clickdebounce) -Using ASM to handle Android's click debounce
+- [sug-debounce](https://github.com/SmartDengg/sug-debounce) -Remove search input textview(also EditTextView) debounce to help reduce unnecessary network bandwidth waste
 
 ### 商城首页
 - [BaseVLayoutAdapterHelper](https://github.com/lvtanxi/BaseVLayoutAdapterHelper) -基于阿里V-Layout的一个Android 简单的封装的通用Adapter
@@ -239,11 +245,14 @@
 - [ExpansionPanel](https://github.com/florent37/ExpansionPanel)
 - [ImageViewer](https://github.com/albert-lii/ImageViewer)
 - [AutoGridView](https://github.com/albert-lii/AutoGridView)
+- [hauler](https://github.com/thefuntasty/hauler) -用滑动来关闭Activity手势实现
 
 ### 有趣项目
 - [PVCloudGroupn](https://github.com/JmStefanAndroid/PVCloudGroupn)
 - [GitClub](https://github.com/TellH/GitClub)
 - [quietweather](https://github.com/myvin/quietweather)
+- [Deadline](https://github.com/Gwokhov/Deadline)
+- [WeatherStream](https://github.com/QuixomTech/WeatherStream)
 
 ### BottomLayout
 - [BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)
@@ -267,3 +276,9 @@
 ### 自定义状态页
 - [StatusLayoutManager](https://github.com/Bakumon/StatusLayoutManager)
 - [StatusView](https://github.com/SheHuan/StatusView)
+
+### 动画
+- [Choreographer](https://github.com/ZachBublil/Choreographer)
+
+### 标题栏
+- [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
