@@ -183,6 +183,8 @@
 - [Flashbar](https://github.com/aritraroy/Flashbar) -⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
 - [Alerter](https://github.com/Tapadoo/Alerter)
 - [TastyToast](https://github.com/yadav-rahul/TastyToast)
+- [ToastUtils](https://github.com/getActivity/ToastUtils)
+- [MaterialToast](https://github.com/marcoscgdev/MaterialToast)
 
 ### Switch
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI.
