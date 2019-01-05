@@ -123,6 +123,7 @@
 - [DataBinding-AspectJ](https://github.com/ditclear/DataBinding-AspectJ) -DataBinding结合AspectJ防止多次点击~给老虎插上翅膀
 - [asm-clickdebounce](https://github.com/SmartDengg/asm-clickdebounce) -Using ASM to handle Android's click debounce
 - [sug-debounce](https://github.com/SmartDengg/sug-debounce) -Remove search input textview(also EditTextView) debounce to help reduce unnecessary network bandwidth waste
+- [SingleClick](https://github.com/jarryleo/SingleClick)
 
 ### 商城首页
 - [BaseVLayoutAdapterHelper](https://github.com/lvtanxi/BaseVLayoutAdapterHelper) -基于阿里V-Layout的一个Android 简单的封装的通用Adapter
