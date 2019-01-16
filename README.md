@@ -288,3 +288,8 @@
 
 ### 图片预览
 - [MNImageBrowser](https://github.com/maning0303/MNImageBrowser)
+
+### 定位
+- [RxLocation](https://github.com/Zackratos/RxLocation)
+- [HiLocation](https://github.com/yiqdjog1/HiLocation)
+- [AmapLike](https://github.com/OrangeHao/AmapLike)
