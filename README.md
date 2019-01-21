@@ -153,6 +153,7 @@
 - [Dialog](https://github.com/kongzue/Dialog)
 - [YCDialog](https://github.com/yangchong211/YCDialog)
 - [TDialog](https://github.com/Timmy-zzh/TDialog)
+- [XPopup](https://github.com/li-xiaojun/XPopup)
 
 ### Progress
 - [ProgressWindow_Android](https://github.com/mmoamenn/ProgressWindow_Android)
