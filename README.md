@@ -163,6 +163,7 @@
 - [SpannableTextView](https://github.com/milaptank/SpannableTextView)
 - [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
 - [SuperTextView](https://github.com/lygttpod/SuperTextView)
+- [SimplifySpan](https://github.com/iwgang/SimplifySpan)
 
 ### selector
 - [SelectorInjection](https://github.com/tianzhijiexian/SelectorInjection) -一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
