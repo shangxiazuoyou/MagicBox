@@ -164,6 +164,7 @@
 - [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
 - [SuperTextView](https://github.com/lygttpod/SuperTextView)
 - [SimplifySpan](https://github.com/iwgang/SimplifySpan)
+- [AdvancedTextView](https://github.com/devilist/AdvancedTextView) -一个增强的TextView库。可以实现文字两端对齐，文字竖排，以及自定义选择文字后的弹出菜单。
 
 ### selector
 - [SelectorInjection](https://github.com/tianzhijiexian/SelectorInjection) -一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
