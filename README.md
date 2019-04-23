@@ -304,3 +304,6 @@
 
 ### 电商
 - [YCShopDetailLayout](https://github.com/yangchong211/YCShopDetailLayout) -购物商场商品详情页面自定义控件，模仿淘宝、京东、考拉等商品详情页分页加载的UI效果。可以嵌套RecyclerView、WebView、ViewPager、ScrollView等等。支持设置上拉分页加载动画效果……
+
+### 多主题框架
+- [MagicaSakura](https://github.com/bilibili/MagicaSakura) -MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
