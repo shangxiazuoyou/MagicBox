@@ -307,3 +307,6 @@
 
 ### 多主题框架
 - [MagicaSakura](https://github.com/bilibili/MagicaSakura) -MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
+
+### BottomTab
+- [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip) -An bottom navigation bar for Android
