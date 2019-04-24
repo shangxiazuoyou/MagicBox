@@ -163,6 +163,7 @@
 - [SpannableTextView](https://github.com/milaptank/SpannableTextView)
 - [advancedtextview](https://github.com/oktayayr/advancedtextview) -AdvancedTextView provides advanced features that simplifies complicated UI processes
 - [SuperTextView](https://github.com/lygttpod/SuperTextView)
+- [SuperTextView](https://github.com/chenBingX/SuperTextView)
 - [SimplifySpan](https://github.com/iwgang/SimplifySpan)
 - [AdvancedTextView](https://github.com/devilist/AdvancedTextView) -一个增强的TextView库。可以实现文字两端对齐，文字竖排，以及自定义选择文字后的弹出菜单。
 
