@@ -47,6 +47,7 @@
 - [StateButton](https://github.com/niniloveyou/StateButton) -一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
 - [CommonShapeButton](https://github.com/michaelxs/CommonShapeButton) -为了移除项目中所有的 shape 文件，提供通用 shape 样式按钮
 - [MaterialLoadingButton](https://github.com/Muki1992/MaterialLoadingButton) -This is a material button that indicates a certain background task running
+- [SuperButton](https://github.com/ansnail/SuperButton) -渐变色按钮
 
 ### 阴影
 - [shadow](https://github.com/loopeer/shadow) -Android custom shadow view, can replace your CardView
