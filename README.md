@@ -312,3 +312,6 @@
 
 ### BottomTab
 - [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip) -An bottom navigation bar for Android
+
+### 桌面角标
+- [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) -An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.
