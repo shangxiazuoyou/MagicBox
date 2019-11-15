@@ -315,3 +315,6 @@
 
 ### 桌面角标
 - [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) -An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.
+
+### FloatView
+- [EasyFloat](https://github.com/princekin-f/EasyFloat) -🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
