@@ -27,6 +27,7 @@
 ### 图表库
 - [JZAndroidChart](https://github.com/donglua/JZAndroidChart) -Android 股票图表库
 - [KLineChart](https://github.com/fujianlian/KLineChart)
+- [KlineChart](https://github.com/icechao/KlineChart) -An Easy-to-Use and Perfect K-Line Library,简单易用K线,CandleStick,Kchart,CandleLine,Kline(虚拟币,股票,基金,外汇),指标线(MACD,WR,KDJ,RSI),ChartView
 
 ### 字体
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) -Custom fonts in Android the easy way
