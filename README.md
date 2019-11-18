@@ -41,6 +41,7 @@
 - [LoadingDialog](https://github.com/ForgetAll/LoadingDialog)
 - [AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)
 - [LoadingDialog](https://github.com/LinweiJ/LoadingDialog)
+- [Gloading](https://github.com/luckybilly/Gloading) -Show global loading status view in a low coupling way for Android App(超轻量级，深度解耦Android App中全局加载中、加载失败及空数据视图)
 
 ### 按钮
 - [Fancybuttons](https://github.com/medyo/Fancybuttons) -Icons, Borders, Radius ... for Android buttons
