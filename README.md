@@ -323,3 +323,6 @@
 
 ### Banner
 - [BannerViewPager](https://github.com/zhpanvip/BannerViewPager) -🚀这可能是全网最好用的Banner。简单、高效，一行代码实现循环轮播，一屏三页任意变，指示器样式任你挑。
+
+### 三方登录
+- [AuthSDK](https://github.com/Enowr/AuthSDK)
