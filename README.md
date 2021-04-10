@@ -240,6 +240,7 @@
 - [co.revely.gradient](https://github.com/revely-inc/co.revely.gradient)
 
 ### 日历
+- [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
 - [CosmoCalendar](https://github.com/ApplikeySolutions/CosmoCalendar)
 
 ### 有意思的效果
