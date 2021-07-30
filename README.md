@@ -334,3 +334,6 @@
 
 ### 崩溃捕获
 - [SpiderMan](https://github.com/simplepeng/SpiderMan) -🔥🔥🔥崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄
+
+### Spinner
+- [SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner) -The powerful android spinner library for your application
