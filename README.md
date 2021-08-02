@@ -337,3 +337,6 @@
 
 ### Spinner
 - [SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner) -The powerful android spinner library for your application
+
+### Popup
+- [BasePopup](https://github.com/razerdp/BasePopup) -一款针对系统PopupWindow优化的Popup库，功能强大，支持背景模糊，使用简单，你会爱上他的~
